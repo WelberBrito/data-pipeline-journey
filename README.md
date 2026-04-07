@@ -16,14 +16,12 @@ Comecei sabendo o básico de SQL e Python. O objetivo é chegar num pipeline end
 
 | Fase | Status | Entregavel | Data |
 |------|--------|------------|------|
-| 1. SQL Sólido | | 10 queries analíticas em `.sql` | 16/04 - 29/04 |
-| 2. Python + pandas | | Script de análise com pandas | 30/04 - 13/05 |
-| 3. Cloud + Docker | | Projeto em Docker + dados no S3/GCS | 14/05 - 27/05 |
-| 4. dbt + Warehouse | | dbt models com tests | 28/05 - 10/06 |
-| 5. Airflow + PySpark | | DAG + job PySpark | 11/06 - 24/06 |
-| 6. Projeto Final | | Pipeline end-to-end completo | 25/06 - 08/07 |
-
-> Legenda: = nao iniciado | = em andamento | = concluido
+| 1. SQL Sólido | em andamento | 10 queries analíticas em `.sql` | 16/04 - 29/04 |
+| 2. Python + pandas | não iniciado | Script de análise com pandas | 30/04 - 13/05 |
+| 3. Cloud + Docker | não iniciado | Projeto em Docker + dados no S3/GCS | 14/05 - 27/05 |
+| 4. dbt + Warehouse | não iniciado | dbt models com tests | 28/05 - 10/06 |
+| 5. Airflow + PySpark | não iniciado | DAG + job PySpark | 11/06 - 24/06 |
+| 6. Projeto Final | não iniciado | Pipeline end-to-end completo | 25/06 - 08/07 |
 
 ---
 
@@ -108,7 +106,6 @@ Analista de Manutenção Preditiva no setor de Confiabilidade na Manutencao Flor
 
 Transicao de carreira para Engenharia de Dados — pós na PUC Minas a partir de julho. Buscando estágio na área.
 
-> "Feito > Perfeito."
 
 ---
 
@@ -120,6 +117,4 @@ Transicao de carreira para Engenharia de Dados — pós na PUC Minas a partir de
 | GitHub | _(github.com/WelberBrito)_ |
 | Email | _(welberbrito14@gmail.com)_ |
 
----
 
-_ultimo update: 08/04/2026_
