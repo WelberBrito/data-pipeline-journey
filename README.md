@@ -104,9 +104,9 @@ Versionamento: Git / GitHub
 
 ## Sobre Mim
 
-Analista de Manutenção Preditiva no setor de Confiabilidade na Manutencao Florestal (Suzano), formando em julho.
+Analista de Manutenção Preditiva no setor de Confiabilidade na Manutencao Florestal (Suzano), curso Ciência de Dados e me formo em julho/26.
 
-Transicao de carreira para Engenharia de Dados — pos na PUC Minas a partir de julho. Buscando estágio na área.
+Transicao de carreira para Engenharia de Dados — pós na PUC Minas a partir de julho. Buscando estágio na área.
 
 > "Feito > Perfeito."
 
